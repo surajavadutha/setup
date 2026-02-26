@@ -24,3 +24,9 @@
 
 16:49:10.337 [main] INFO  testCases.TC_01_LoginTest - **Started**
 16:49:12.533 [main] INFO  testCases.TC_01_LoginTest - **Finished**
+17:41:47.320 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\setup\master.xml"
+17:41:47.417 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\setup\master.xml
+
+17:41:49.698 [main] INFO  testCases.TC_01_LoginTest - **Started**
+17:41:51.900 [main] INFO  testCases.TC_01_LoginTest - **Finished**
