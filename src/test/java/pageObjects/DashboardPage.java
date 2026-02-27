@@ -12,7 +12,7 @@ public class DashboardPage extends BasePage
 		super(driver);
 	}
 	
-	@FindBy(xpath = "(//a)[1]/p")
+	@FindBy(xpath = "//p[text()='Dashboard']")
 	WebElement msgDash;
 	
 	public boolean isDashboardexists() {

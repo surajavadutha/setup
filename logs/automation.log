@@ -30,9 +30,140 @@
 
 17:41:49.698 [main] INFO  testCases.TC_01_LoginTest - **Started**
 17:41:51.900 [main] INFO  testCases.TC_01_LoginTest - **Finished**
+<<<<<<< HEAD
 17:55:55.450 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\setup\master.xml"
 17:55:55.552 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
   C:\Users\Dell\eclipse-workspace\setup\master.xml
 
 17:55:58.450 [main] INFO  testCases.TC_01_LoginTest - **Started**
 17:56:00.625 [main] INFO  testCases.TC_01_LoginTest - **Finished**
+=======
+11:51:58.518 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\setup\master.xml"
+11:52:01.114 [main] INFO  testCases.TC_01_LoginTest - **Started**
+11:52:03.330 [main] INFO  testCases.TC_01_LoginTest - **Finished**
+12:07:39.262 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\setup\master.xml"
+12:07:41.294 [main] INFO  testCases.TC_01_LoginTest - **Started**
+12:07:43.480 [main] INFO  testCases.TC_01_LoginTest - **Finished**
+12:16:58.846 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\setup\master.xml"
+12:16:58.956 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\setup\master.xml
+
+12:16:59.064 [main] INFO  testCases.TC_01_LoginTest - **Started**
+12:17:37.660 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\setup\master.xml"
+12:17:37.756 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\setup\master.xml
+
+12:17:48.612 [main] INFO  testCases.TC_01_LoginTest - **Started**
+12:17:50.816 [main] INFO  testCases.TC_01_LoginTest - **Finished**
+12:43:12.550 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\setup\master.xml"
+12:43:12.649 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\setup\master.xml
+
+12:43:14.977 [main] INFO  testCases.TC_01_LoginTest - **Started**
+12:43:17.198 [main] INFO  testCases.TC_01_LoginTest - **Finished**
+16:21:03.133 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\setup\master.xml"
+16:21:03.232 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\setup\master.xml
+
+16:21:05.762 [main] INFO  testCases.TC_01_LoginTest - **Started**
+16:21:07.953 [main] INFO  testCases.TC_01_LoginTest - **Finished**
+16:27:41.529 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\setup\master.xml"
+16:27:41.629 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\setup\master.xml
+
+16:28:04.167 [main] INFO  testCases.TC_01_LoginTest - **Started**
+16:28:09.676 [main] INFO  testCases.TC_01_LoginTest - **Finished**
+16:33:33.641 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\setup\master.xml"
+16:33:33.743 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\setup\master.xml
+
+16:33:35.810 [main] INFO  testCases.TC_01_LoginTest - **Started**
+16:37:46.866 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\setup\master.xml"
+16:37:46.965 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\setup\master.xml
+
+16:37:49.062 [main] INFO  testCases.TC_01_LoginTest - **Started**
+16:37:52.304 [main] INFO  testCases.TC_01_LoginTest - **Finished**
+16:38:16.437 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\setup\master.xml"
+16:38:16.533 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\setup\master.xml
+
+16:38:18.789 [main] INFO  testCases.TC_01_LoginTest - **Started**
+16:47:22.338 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\setup\master.xml"
+16:47:22.436 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\setup\master.xml
+
+16:47:24.509 [main] INFO  testCases.TC_01_LoginTest - **Started**
+16:47:55.097 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\setup\master.xml"
+16:47:55.195 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\setup\master.xml
+
+16:47:57.345 [main] INFO  testCases.TC_01_LoginTest - **Started**
+16:48:00.659 [main] INFO  testCases.TC_01_LoginTest - **Finished**
+16:48:22.591 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\setup\master.xml"
+16:48:22.690 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\setup\master.xml
+
+16:48:24.564 [main] INFO  testCases.TC_01_LoginTest - **Started**
+16:55:29.913 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\setup\master.xml"
+16:55:30.011 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\setup\master.xml
+
+16:55:32.004 [main] INFO  testCases.TC_01_LoginTest - **Started**
+16:55:35.375 [main] INFO  testCases.TC_01_LoginTest - **Finished**
+16:55:45.563 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\setup\master.xml"
+16:55:45.661 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\setup\master.xml
+
+16:55:47.770 [main] INFO  testCases.TC_01_LoginTest - **Started**
+16:55:51.330 [main] INFO  testCases.TC_01_LoginTest - **Finished**
+16:56:18.126 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\setup\master.xml"
+16:56:18.226 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\setup\master.xml
+
+16:56:20.627 [main] INFO  testCases.TC_01_LoginTest - **Started**
+16:57:01.307 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\setup\master.xml"
+16:57:01.405 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\setup\master.xml
+
+16:57:03.457 [main] INFO  testCases.TC_01_LoginTest - **Started**
+17:01:03.263 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\setup\master.xml"
+17:01:03.361 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\setup\master.xml
+
+17:01:05.529 [main] INFO  testCases.TC_01_LoginTest - **Started**
+17:25:10.482 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\setup\master.xml"
+17:25:10.581 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\setup\master.xml
+
+17:25:13.087 [main] INFO  testCases.TC_01_LoginTest - **Started**
+17:25:16.514 [main] INFO  testCases.TC_01_LoginTest - **Finished**
+17:25:47.164 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\setup\master.xml"
+17:25:47.262 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\setup\master.xml
+
+17:25:49.360 [main] INFO  testCases.TC_01_LoginTest - **Started**
+17:27:47.761 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\setup\master.xml"
+17:27:47.860 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\setup\master.xml
+
+17:27:50.115 [main] INFO  testCases.TC_01_LoginTest - **Started**
+17:30:46.185 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\setup\master.xml"
+17:30:46.285 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\setup\master.xml
+
+17:30:48.415 [main] INFO  testCases.TC_01_LoginTest - **Started**
+17:31:00.628 [main] INFO  testCases.TC_01_LoginTest - **Finished**
+17:34:28.724 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\setup\master.xml"
+17:34:28.822 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\setup\master.xml
+
+17:34:31.050 [main] INFO  testCases.TC_01_LoginTest - **Started**
+17:34:43.288 [main] INFO  testCases.TC_01_LoginTest - **Finished**
+17:34:56.581 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Dell\eclipse-workspace\setup\master.xml"
+17:34:56.680 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Dell\eclipse-workspace\setup\master.xml
+
+17:34:58.632 [main] INFO  testCases.TC_01_LoginTest - **Started**
+17:35:01.921 [main] INFO  testCases.TC_01_LoginTest - **Finished**
+>>>>>>> origin/master

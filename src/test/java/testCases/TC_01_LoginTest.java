@@ -15,10 +15,17 @@ public class TC_01_LoginTest extends BaseClass
 		logger.info("**Started**");
 		try 
 		{
+			
 			LoginPage lp = new LoginPage(driver);
 			lp.setEmail(p.getProperty("email"));
 			lp.setPassword(p.getProperty("password"));
 			lp.clickSubmit();
+			try {
+				lp.clickSessionYes();
+			} catch (Exception e) {
+				System.out.println("no session");
+			}
+		
 			
 			DashboardPage db = new DashboardPage(driver);
 			boolean target = db.isDashboardexists();

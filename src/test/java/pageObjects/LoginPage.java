@@ -21,6 +21,9 @@ public class LoginPage extends BasePage{
 	@FindBy(xpath = "//button[@type='submit']")
 	WebElement btnSubmit;
 	
+	@FindBy(xpath = "//button[.='Yes']")
+	WebElement btnSessionOpen;
+	
 	public void setEmail(String mail) {
 		txtEmail.sendKeys(mail);
 	}
@@ -31,5 +34,12 @@ public class LoginPage extends BasePage{
 	
 	public void clickSubmit() {
 		btnSubmit.click();
+	}
+	
+	public void clickSessionYes() {
+		if(btnSessionOpen.isEnabled()){
+		btnSessionOpen.click();
+		}
+		
 	}
 }

@@ -45,8 +45,8 @@ public class ExtentReportManager implements ITestListener
 		extent.attachReporter(sparkReporter);
 		
 		extent.setSystemInfo("Application", "psyHire");
-		extent.setSystemInfo("Module", "Admin");
-		extent.setSystemInfo("Sub Module", "Customers");
+		extent.setSystemInfo("Module", "Login");
+		extent.setSystemInfo("Sub Module", "Login_functionality");
 		extent.setSystemInfo("User Name", System.getProperty("user.name"));
 		extent.setSystemInfo("Environment", "QA");
 		
